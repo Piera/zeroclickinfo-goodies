@@ -9,7 +9,7 @@
     },
 
     "aliases": [
-        "california fourteeners", "ca 14ers", "ca fourteeners"
+        "california fourteeners", "california 14ers", "ca 14ers", "ca fourteeners"
     ],
 
     "template_type": "reference",
@@ -28,7 +28,7 @@
             }
         ],
         
-         "Inyo-White Mountains": [
+        "Inyo-White Mountains": [
             {
                "key":"White Mountain Peak",
                "val":"14,246'"
@@ -75,8 +75,7 @@
             {
                 "key":"Mt. Muir",
                 "val":"14,012'"
-            }
-            
+            }   
         ]
     }
 }
