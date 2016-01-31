@@ -1,0 +1,82 @@
+{
+    "id": "california_14ers_cheat_sheet",
+    "name": "California 14ers",
+    "description": "California mountains over 14,000 feet",
+
+    "metadata": {
+        "sourceName": "SummitPost",
+        "sourceUrl" : "http://www.summitpost.org/california-14ers/170899"
+    },
+
+    "aliases": [
+        "california fourteeners", "ca 14ers", "ca fourteeners"
+    ],
+
+    "template_type": "reference",
+
+    "section_order": [
+        "Sierra Nevada",
+        "California Cascades",
+        "Inyo-White Mountains"
+    ],
+
+    "sections": {
+        "California Cascades": [
+            {
+                "key": "Mt. Shasta",
+                "val": "14,162'"
+            }
+        ],
+        
+         "Inyo-White Mountains": [
+            {
+               "key":"White Mountain Peak",
+               "val":"14,246'"
+            }
+        ],
+        
+        "Sierra Nevada": [
+            {
+                "key": "Mt. Whitney",
+                "val": "14,497'"
+            },
+            {
+                "key": "Mt. Williamson",
+                "val": "14,375'"
+            },
+            {
+                "key":"North Palisade",	
+                "val":"14,242'"
+            },
+            {
+                "key":"Mt. Sill",
+                "val":"14,153'"
+            },
+            {
+                "key":"Mt. Russell",	
+                "val":"14,088'"
+            },
+            {
+                "key":"Split Mountain",
+                "val":"14,058'"
+            },
+            {
+                "key":"Mt. Langley",
+                "val":"14,026'"
+            },
+            {
+                "key":"Mt. Tyndall",	
+                "val":"14,018'"
+            },
+            {
+                "key":"Middle Palisade",
+                "val":"14,012'"
+            },
+            {
+                "key":"Mt. Muir",
+                "val":"14,012'"
+            }
+            
+        ]
+    }
+}
